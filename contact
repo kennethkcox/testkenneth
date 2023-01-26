@@ -593,42 +593,6 @@ line-height: 1.2;}.textlogo-ddo{font-size: 20px !important;}</style></div><div c
 <p style="line-height: 1;"><br></p>
 <div class="fcf-body">
 
-    <div id="fcf-form">
-    <h3 class="fcf-h3">Contact us</h3>
-
-    <form id="fcf-form-id" class="fcf-form-class" method="post" action="contact-form-process.php">
-        
-        <div class="fcf-form-group">
-            <label for="Name" class="fcf-label">Your name</label>
-            <div class="fcf-input-group">
-                <input type="text" id="Name" name="Name" class="fcf-form-control" required>
-            </div>
-        </div>
-
-        <div class="fcf-form-group">
-            <label for="Email" class="fcf-label">Your email address</label>
-            <div class="fcf-input-group">
-                <input type="email" id="Email" name="Email" class="fcf-form-control" required>
-            </div>
-        </div>
-
-        <div class="fcf-form-group">
-            <label for="Message" class="fcf-label">Your message</label>
-            <div class="fcf-input-group">
-                <textarea id="Message" name="Message" class="fcf-form-control" rows="6" maxlength="3000" required></textarea>
-            </div>
-        </div>
-
-        <div class="fcf-form-group">
-            <button type="submit" id="fcf-button" class="fcf-btn fcf-btn-primary fcf-btn-lg fcf-btn-block">Send Message</button>
-        </div>
-
-        <div class="fcf-credit" id="fcf-credit">
-        Simple HTML email form provided by <a href="https://www.majesticform.com" target="_blank">MajesticForm</a>
-        </div>
-
-    </form>
-    </div>
 <p>meer aan - drijf mee</p>
 <p><br></p>
 <p><br></p></div></div></div></div><div class="Preview_row__3Fkye row" style=min-height:126px;width:323px><div data-id=5DB61A42-B8C5-496D-ACA6-582A71C8FFB7 data-kind=IMAGE style=width:300px;min-height:126px;margin-top:0;margin-left:8px class=Preview_componentWrapper__2i4QI><div data-in-template=false data-id=5DB61A42-B8C5-496D-ACA6-582A71C8FFB7 data-kind=Component data-specific-kind=IMAGE class=Preview_component__SbiKo><div class="Mobile_imageComponent__QXWk1 Mobile_cropMode__cLuJp" style=overflow:hidden data-width=300 data-height=126><img data-loading=lazy role=presentation data-scalestrategy=crop style=margin-top:0px;margin-left:0px;display:block;margin:0 src="/____impro/1/onewebmedia/Vlaanderen_verbeelding%20werkt.png?etag=%224f3a-5b72d089%22&amp;sourceContentType=image%2Fpng&amp;ignoreAspectRatio&amp;resize=300%2B126&amp;extract=0%2B0%2B300%2B126" srcset="/____impro/1/onewebmedia/Vlaanderen_verbeelding%20werkt.png?etag=%224f3a-5b72d089%22&amp;sourceContentType=image%2Fpng&amp;ignoreAspectRatio&amp;resize=300%2B126&amp;extract=0%2B0%2B300%2B126, /____impro/1/onewebmedia/Vlaanderen_verbeelding%20werkt.png?etag=%224f3a-5b72d089%22&amp;sourceContentType=image%2Fpng&amp;ignoreAspectRatio&amp;resize=600%2B253&amp;extract=0%2B0%2B600%2B252 2x, /____impro/1/onewebmedia/Vlaanderen_verbeelding%20werkt.png?etag=%224f3a-5b72d089%22&amp;sourceContentType=image%2Fpng&amp;ignoreAspectRatio&amp;resize=823%2B347&amp;extract=0%2B0%2B823%2B345 3x, /____impro/1/onewebmedia/Vlaanderen_verbeelding%20werkt.png?etag=%224f3a-5b72d089%22&amp;sourceContentType=image%2Fpng&amp;ignoreAspectRatio&amp;resize=823%2B347&amp;extract=0%2B0%2B823%2B345 4x" height=126 width=300 data-width=300 data-height=126></div></div></div></div><div style=clear:both></div></div><div class="Preview_column__1KeVx col" style=min-height:295px;width:58px;float:left><div data-id=0544C137-6C8E-4E77-A210-7E6DEAD42A9F data-kind=BACKGROUND style=width:33px;min-height:132px;margin-top:34px;margin-left:25px class=Preview_componentWrapper__2i4QI><div data-in-template=true data-id=0544C137-6C8E-4E77-A210-7E6DEAD42A9F data-kind=Component data-specific-kind=BACKGROUND class="Preview_mobileHide__9T929 Preview_component__SbiKo"><div class="BackgroundPreview_backgroundComponent__3Dr5e BackgroundPreview_bgHeight__3dD2e" style="border-color:rgba(183,183,183,1);border-style:solid;border-width:0px 1px 0px 0px;background-clip:padding-box;min-height:132px;padding-bottom:0"></div></div></div><div style=clear:both></div></div><div class="Preview_column__1KeVx col" style=min-height:295px;width:326px;float:left><div data-id=3724511E-7137-486B-B4DE-08ADF0612EAB data-kind=TEXT style=width:315px;min-height:227px;margin-top:38px;margin-left:11px class=Preview_componentWrapper__2i4QI><div data-in-template=true data-id=3724511E-7137-486B-B4DE-08ADF0612EAB data-kind=Component data-specific-kind=TEXT class="Preview_component__SbiKo mobileDown text-align-undefined"><div data-mve-font-change=0 class="styles_contentContainer__lrPIa textnormal styles_text__3jGMu"><p><span style="font-weight: bold;">CONTACT</span></p>
